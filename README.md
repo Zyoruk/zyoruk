@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-
-- 🔭 I’m currently working on figuring out where to collaborate
+- 🔭 Figuring out where to collaborate mainly on Webapps (React, Angular, NextJS, TS, NodeJS)
 - 🌱 I’m currently learning AWS
-- 👯 I’m looking to collaborate on React & Angular
+- 📃 My current TODO List:
+  - Blog + integrate w/ Medium & Dev.to
+  - Create a Sticky Notes app
