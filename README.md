@@ -4,3 +4,5 @@
 - 🌱 I’m currently learning AWS
 - My work profile is [lsimon-godaddy](https://github.com/lsimon-godaddy)
 - You may also find me at [Gitlab/zyoruk](https://gitlab.com/users/Zyoruk/projects)
+- [Blog](https://blog.devpand.com/)
+- [Repo aggregator](https://bio.devpand.com/)
