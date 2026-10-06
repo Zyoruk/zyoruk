@@ -1,26 +1,27 @@
-# 👋 Hi, I’m Zyoruk
+# Hi, I'm Zyoruk
 
-I'm a **Software Engineer** focused on building clean, scalable, and maintainable software — primarily in the **web ecosystem**. I work with technologies like **React**, **Next.js**, **Node.js**, **NestJS**, and **TypeScript**, and bring experience in **cloud infrastructure** (AWS), **observability**, and **security-aware development**.
+Software engineer in San José, Costa Rica. I build web platforms with **React**, **Next.js**, **NestJS** and **TypeScript** on **AWS**, with a focus on observability, security and performance.
 
-## 🧠 What I Do
-- Architect and build distributed systems that balance performance, user experience, and maintainability.
-- Design solutions with SEO, Core Web Vitals, and accessibility in mind.
-- Contribute to and lead engineering efforts across multiple teams and continents.
-- Support tech hiring: screening, technical interviews, and mentoring engineers.
-- Leverage **AI tools** (Copilot, GPT-4) to improve development workflows, reduce cognitive load, and assist in daily tasks.
+- Lead engineering work across distributed teams and multiple time zones.
+- Run technical interviews and mentor engineers.
+- Write about AI, cloud, architecture and engineering teams at [blog.devpand.com](https://blog.devpand.com).
 
-## 🛠️ Tech Stack
-**Frontend:** React · Next.js · Angular  
-**Backend:** Node.js · NestJS · TypeORM  
-**Infra & Tools:** AWS · CI/CD · CloudFormation · APM · GitHub Actions  
-**Other:** SEO · Web Vitals · CSP · Security Best Practices · AI-assisted Development
+## Featured projects
 
-## 🌍 Connect With Me
-- 💼 [LinkedIn](https://www.linkedin.com/in/zyoruk/)
-- 📝 [Blog](https://blog.devpand.com)
-- 🌐 [Portfolio/Bio](https://bio.devpand.com)
+- [**solobueno-erp**](https://github.com/Zyoruk/solobueno-erp): restaurant ERP. Offline-first, multi-tenant, built with Go, React Native and TypeScript.
+- [**algorithms-ui**](https://github.com/Zyoruk/algorithms-ui): interactive algorithm and data-structure visualizer. Next.js and D3.
+- [**copilot-instructions**](https://github.com/Zyoruk/copilot-instructions): coding standards and guidance for working with AI coding assistants across Angular, NestJS and testing. ([docs](https://zyoruk.github.io/copilot-instructions/#/))
+- [**blog**](https://github.com/Zyoruk/blog): source of my blog. Astro, hosted on AWS Amplify.
 
----
+## Latest writing
 
-> “Code should be intentional, human-readable, and easy to build upon — not just functional.”
+<!-- posts:start -->
+- [Intentional code](https://blog.devpand.com/notes/intentional-code/)
+- [Learnings as an Interviewer](https://blog.devpand.com/blog/learnings-as-interviewer/)
+- [Learnings from Work](https://blog.devpand.com/blog/learnings-from-work/)
+- [Time Management](https://blog.devpand.com/blog/time-management/)
+<!-- posts:end -->
 
+## Elsewhere
+
+[LinkedIn](https://www.linkedin.com/in/zyoruk/) · [Blog](https://blog.devpand.com) · [Bio](https://bio.devpand.com)
